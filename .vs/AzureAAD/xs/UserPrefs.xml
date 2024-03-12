@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{20C41F92-F913-41A3-AF3E-1C0A48BBA4C2}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="AzureAADAPI/Program.cs">
+    <Files>
+      <File FileName="AzureAADAPI/Program.cs" Line="29" Column="23" />
+      <File FileName="AzureAADAPI/Controllers/WeatherForecastController.cs" Line="24" Column="21" />
+      <File FileName="AzureAADAPI/appsettings.json" Line="6" Column="26" />
+      <File FileName="AzureAADAPI/WeatherForecast.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AzureAAD" expanded="True">
+            <Node name="AzureAADAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AzureAADAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
